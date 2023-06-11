@@ -1,5 +1,5 @@
 let titles_type = ["Survey", "Review", "Overview"];
-let titles_model = ["Language Model", "Transformer", "Mixture-of-Expert"];
+let titles_model = ["Language Model", "Transformer", "Mixture-of"];
 let titles_method = ["Pre-train", "Pretrain", "Agent"];
 let titles =  titles_model + titles_method + titles_type;
 let authors_array = ["Yann LeCun", "Geoffrey Hinton", "Yoshua Bengio", "Shunyu Yao", "Yankai Lin", "Zhiyuan Liu", "Danqi Chen"];
@@ -16,7 +16,7 @@ let conferences = [
     // ML
     "ACML", "AISTATS", "ECML", "ICLR", "ICML", "ML4H", "NeurIPS", "NIPS", "UAI",
     // NLP
-    "AACL", "ACL", "CCL", "COLING", "COLT", "CoNLL", "EACL", "EMNLP", "ICASSP", "ICDAR", "ICONIP", "INTERSPEECH", "LREC", "NAACL", "NLPCC", "RepL4NLP", "SIGDIAL", "SemEval", "WANLP", "WASSA", "WOAH",
+    "ACL", "COLING", "COLT", "CoNLL", "EACL", "EMNLP", "NAACL",
     // Arch
     "ASPLOS", "ATC", "DATE", "EuroSys", "FAST", "HPCA", "ISCA", "MICRO", "PPoPP", "SC", "SoCC",
     // System
