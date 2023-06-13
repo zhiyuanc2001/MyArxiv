@@ -1,6 +1,6 @@
 let titles_type = ["Survey", "Review", "Overview"];
-let titles_model = ["Language Model", "Transformer", "Mixture-of"];
-let titles_method = ["Pre-train", "Pretrain", "Agent"];
+let titles_model = ["Language Model", "Mixture-of", "Large Language Model", "LLM"];
+let titles_method = ["Agent", "Parameter Efficient", "Multi-Agent", "Multi Agent"];
 let titles =  titles_model + titles_method + titles_type;
 let authors_array = ["Yann LeCun", "Geoffrey Hinton", "Yoshua Bengio", "Shunyu Yao", "Yankai Lin", "Zhiyuan Liu", "Danqi Chen"];
 
